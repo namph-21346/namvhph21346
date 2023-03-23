@@ -1,0 +1,18 @@
+{
+    "products": [{
+            "name": "ABC ",
+            "price": 2000,
+            "id": 1
+        },
+        {
+            "name": "ABC update",
+            "price": 3000,
+            "id": 2
+        },
+        {
+            "name": "ABC DEFGHJ",
+            "price": 20000,
+            "id": 3
+        }
+    ]
+}
